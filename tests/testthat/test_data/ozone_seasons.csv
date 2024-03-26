@@ -1,0 +1,486 @@
+"State Code","County Code","Site Number","State Name","County Name","Begin Month","Begin Day","End Month","End Day"
+"01",,,"Alabama",,3,1,10,31
+"01","073","0023","Alabama","Jefferson",1,1,12,31
+"02",,,"Alaska",,4,1,10,30
+"02","090","0034","Alaska","Fairbanks North Star ",1,1,12,31
+"04",,,"Arizona",,1,1,12,31
+"04","005","1008","Arizona","Coconino",1,1,12,31
+"04","007","0010","Arizona","Gila",1,1,12,31
+"04","012","8000","Arizona","La Paz",1,1,12,31
+"04","013","7022","Arizona","Maricopa",1,1,12,31
+"04","013","7024","Arizona","Maricopa",1,1,12,31
+"04","013","9997","Arizona","Maricopa",1,1,12,31
+"04","019","1028","Arizona","Pima",1,1,12,31
+"04","021","8001","Arizona","Pinal",1,1,12,31
+"04","025","8033","Arizona","Yavapai",1,1,12,31
+"04","025","8034","Arizona","Yavapai",1,1,12,31
+"04","027","8011","Arizona","Yuma",1,1,12,31
+"05",,,"Arkansas",,3,1,11,30
+"05","119","0007","Arkansas","Pulaski",1,1,12,31
+"06",,,"California",,1,1,12,31
+"06","013","2007","California","Contra Costa",4,1,10,31
+"06","017","0011","California","El Dorado",1,1,12,31
+"06","017","0012","California","El Dorado",4,1,10,31
+"06","017","0020","California","El Dorado",4,1,10,31
+"06","019","0011","California","Fresno",1,1,12,31
+"06","027","0002","California","Inyo",1,1,12,31
+"06","037","1103","California","Los Angeles",1,1,12,31
+"06","043","0006","California","Mariposa",4,1,10,31
+"06","057","0007","California","Nevada",4,1,10,31
+"06","065","8001","California","Riverside",1,1,12,31
+"06","067","0006","California","Sacramento",1,1,12,31
+"06","073","1018","California","San Diego",1,1,12,31
+"06","073","1022","California","San Diego",1,1,12,31
+"06","085","0005","California","Santa Clara",1,1,12,31
+"06","101","0004","California","Sutter",4,1,10,31
+"06","103","0004","California","Tehama",4,1,10,31
+"08",,,"Colorado",,1,1,12,31
+"08","031","0026","Colorado","Denver",1,1,12,31
+"09",,,"Connecticut",,3,1,9,30
+"09","005","0005","Connecticut","Litchfield",1,1,12,31
+"09","009","0027","Connecticut","New Haven",1,1,12,31
+"10",,,"Delaware",,3,1,10,31
+"10","003","2004","Delaware","New Castle",1,1,12,31
+"11",,,"District Of Columbia",,3,1,10,31
+"11","001","0043","District Of Columbia","District of Columbia",1,1,12,31
+"12",,,"Florida",,1,1,12,31
+"12","011","0034","Florida","Broward",1,1,12,31
+"12","057","3002","Florida","Hillsborough",1,1,12,31
+"12","129","0001","Florida","Wakulla",1,1,12,31
+"13",,,"Georgia",,3,1,10,31
+"13","089","0002","Georgia","DeKalb",1,1,12,31
+"15",,,"Hawaii",,1,1,12,31
+"15","003","0010","Hawaii","Honolulu",1,1,12,31
+"16",,,"Idaho",,4,1,9,30
+"16","001","0010","Idaho","Ada",1,1,12,31
+"17",,,"Illinois",,3,1,10,31
+"17","019","1001","Illinois","Champaign",1,1,12,31
+"17","031","4201","Illinois","Cook",1,1,12,31
+"18",,,"Indiana",,3,1,10,31
+"18","097","0078","Indiana","Marion",1,1,12,31
+"19",,,"Iowa",,3,1,10,31
+"19","163","0015","Iowa","Scott",1,1,12,31
+"20",,,"Kansas",,3,1,10,31
+"20","209","0021","Kansas","Wyandotte",1,1,12,31
+"21",,,"Kentucky",,3,1,10,31
+"21","111","0067","Kentucky","Jefferson",1,1,12,31
+"22",,,"Louisiana",,1,1,12,31
+"22","001",,"Louisiana","Acadia",1,1,12,31
+"22","003",,"Louisiana","Allen",1,1,12,31
+"22","005",,"Louisiana","Ascension",1,1,12,31
+"22","007",,"Louisiana","Assumption",1,1,12,31
+"22","009",,"Louisiana","Avoyelles",1,1,12,31
+"22","011",,"Louisiana","Beauregard",1,1,12,31
+"22","013",,"Louisiana","Bienville",3,1,10,31
+"22","015",,"Louisiana","Bossier",3,1,10,31
+"22","017",,"Louisiana","Caddo",3,1,10,31
+"22","019",,"Louisiana","Calcasieu",1,1,12,31
+"22","021",,"Louisiana","Caldwell",3,1,10,31
+"22","023",,"Louisiana","Cameron",1,1,12,31
+"22","025",,"Louisiana","Catahoula",3,1,10,31
+"22","027",,"Louisiana","Claiborne",3,1,10,31
+"22","029",,"Louisiana","Concordia",3,1,10,31
+"22","031",,"Louisiana","De Soto",3,1,10,31
+"22","033",,"Louisiana","East Baton Rouge",1,1,12,31
+"22","033","0009","Louisiana","East Baton Rouge",1,1,12,31
+"22","035",,"Louisiana","East Carroll",3,1,10,31
+"22","037",,"Louisiana","East Feliciana",1,1,12,31
+"22","039",,"Louisiana","Evangeline",1,1,12,31
+"22","041",,"Louisiana","Franklin",3,1,10,31
+"22","043",,"Louisiana","Grant",1,1,12,31
+"22","045",,"Louisiana","Iberia",1,1,12,31
+"22","047",,"Louisiana","Iberville",1,1,12,31
+"22","049",,"Louisiana","Jackson",3,1,10,31
+"22","051",,"Louisiana","Jefferson",1,1,12,31
+"22","053",,"Louisiana","Jefferson Davis",1,1,12,31
+"22","055",,"Louisiana","Lafayette",1,1,12,31
+"22","057",,"Louisiana","Lafourche",1,1,12,31
+"22","059",,"Louisiana","La Salle",3,1,10,31
+"22","061",,"Louisiana","Lincoln",3,1,10,31
+"22","063",,"Louisiana","Livingston",1,1,12,31
+"22","065",,"Louisiana","Madison",3,1,10,31
+"22","067",,"Louisiana","Morehouse",3,1,10,31
+"22","069",,"Louisiana","Natchitoches",3,1,10,31
+"22","071",,"Louisiana","Orleans",1,1,12,31
+"22","073",,"Louisiana","Ouachita",3,1,10,31
+"22","075",,"Louisiana","Plaquemines",1,1,12,31
+"22","077",,"Louisiana","Pointe Coupee",1,1,12,31
+"22","079",,"Louisiana","Rapides",1,1,12,31
+"22","081",,"Louisiana","Red River",3,1,10,31
+"22","083",,"Louisiana","Richland",3,1,10,31
+"22","085",,"Louisiana","Sabine",3,1,10,31
+"22","087",,"Louisiana","St. Bernard",1,1,12,31
+"22","089",,"Louisiana","St. Charles",1,1,12,31
+"22","091",,"Louisiana","St. Helena",1,1,12,31
+"22","093",,"Louisiana","St. James",1,1,12,31
+"22","095",,"Louisiana","St. John the Baptist",1,1,12,31
+"22","097",,"Louisiana","St. Landry",1,1,12,31
+"22","099",,"Louisiana","St. Martin",1,1,12,31
+"22","101",,"Louisiana","St. Mary",1,1,12,31
+"22","103",,"Louisiana","St. Tammany",1,1,12,31
+"22","105",,"Louisiana","Tangipahoa",1,1,12,31
+"22","107",,"Louisiana","Tensas",3,1,10,31
+"22","109",,"Louisiana","Terrebonne",1,1,12,31
+"22","111",,"Louisiana","Union",3,1,10,31
+"22","113",,"Louisiana","Vermilion",1,1,12,31
+"22","115",,"Louisiana","Vernon",1,1,12,31
+"22","117",,"Louisiana","Washington",1,1,12,31
+"22","119",,"Louisiana","Webster",3,1,10,31
+"22","121",,"Louisiana","West Baton Rouge",1,1,12,31
+"22","123",,"Louisiana","West Carroll",3,1,10,31
+"22","125",,"Louisiana","West Feliciana",1,1,12,31
+"22","127",,"Louisiana","Winn",3,1,10,31
+"23",,,"Maine",,4,1,9,30
+"23","009","0103","Maine","Hancock",1,1,12,31
+"24",,,"Maryland",,3,1,10,31
+"24","023","0002","Maryland","Garrett",1,1,12,31
+"24","033","0030","Maryland","Prince George's",1,1,12,31
+"25",,,"Massachusetts",,3,1,9,30
+"25","025","0042","Massachusetts","Suffolk",1,1,12,31
+"26",,,"Michigan",,3,1,10,31
+"26","081","0020","Michigan","Kent",1,1,12,31
+"26","163","0001","Michigan","Wayne",1,1,12,31
+"27",,,"Minnesota",,3,1,10,31
+"27","003","1002","Minnesota","Anoka",1,1,12,31
+"28",,,"Mississippi",,3,1,10,31
+"28","049","0020","Mississippi","Hinds",1,1,12,31
+"29",,,"Missouri",,3,1,10,31
+"29","510","0085","Missouri","St. Louis City",1,1,12,31
+"30",,,"Montana",,4,1,9,30
+"30","049","0004","Montana","Lewis and Clark",1,1,12,31
+"31",,,"Nebraska",,3,1,10,31
+"31","055","0019","Nebraska","Douglas",1,1,12,31
+"32",,,"Nevada",,1,1,12,31
+"32","003","0022","Nevada","Clark",4,1,9,30
+"32","003","0023","Nevada","Clark",4,1,9,30
+"32","003","0540","Nevada","Clark",1,1,12,31
+"32","003","7772","Nevada","Clark",4,1,9,30
+"32","031","0016","Nevada","Washoe",1,1,12,31
+"33",,,"New Hampshire",,3,1,9,30
+"33","011","5001","New Hampshire","Hillsborough",1,1,12,31
+"33","015","0018","New Hampshire","Rockingham",1,1,12,31
+"34",,,"New Jersey",,3,1,10,31
+"34","013","0003","New Jersey","Essex",1,1,12,31
+"35",,,"New Mexico",,1,1,12,31
+"35","001","0023","New Mexico","Bernalillo",1,1,12,31
+"36",,,"New York",,3,1,10,31
+"36","055","1007","New York","Monroe",1,1,12,31
+"36","081","0124","New York","Queens",1,1,12,31
+"36","101","0003","New York","Steuben",1,1,12,31
+"37",,,"North Carolina",,3,1,10,31
+"37","011","0002","North Carolina","Avery",4,1,10,31
+"37","075","0001","North Carolina","Graham",4,1,10,31
+"37","087","0035","North Carolina","Haywood",4,1,10,31
+"37","087","0036","North Carolina","Haywood",4,1,10,31
+"37","119","0041","North Carolina","Mecklenburg",1,1,12,31
+"37","183","0014","North Carolina","Wake",1,1,12,31
+"37","199","0004","North Carolina","Yancey",4,1,10,31
+"38",,,"North Dakota",,3,1,9,30
+"38","017","1004","North Dakota","Cass",1,1,12,31
+"39",,,"Ohio",,3,1,10,31
+"39","035","0060","Ohio","Cuyahoga",1,1,12,31
+"39","061","0040","Ohio","Hamilton",1,1,12,31
+"39","135","1001","Ohio","Preble",1,1,12,31
+"40",,,"Oklahoma",,3,1,11,30
+"40","001","9009","Oklahoma","Adair",1,1,12,31
+"40","143","1127","Oklahoma","Tulsa",1,1,12,31
+"41",,,"Oregon",,5,1,9,30
+"41","051","0080","Oregon","Multnomah",1,1,12,31
+"42",,,"Pennsylvania",,3,1,10,31
+"42","003","0008","Pennsylvania","Allegheny",1,1,12,31
+"42","101","0048","Pennsylvania","Philadelphia",1,1,12,31
+"44",,,"Rhode Island",,3,1,9,30
+"44","007","1010","Rhode Island","Providence",1,1,12,31
+"45",,,"South Carolina",,3,1,10,31
+"45","079","0007","South Carolina","Richland",1,1,12,31
+"46",,,"South Dakota",,3,1,10,31
+"46","099","0008","South Dakota","Minnehaha",1,1,12,31
+"47",,,"Tennessee",,3,1,10,31
+"47","009","0101","Tennessee","Blount",1,1,12,31
+"47","155","0102","Tennessee","Sevier",5,1,10,31
+"47","157","0075","Tennessee","Shelby",1,1,12,31
+"48",,,"Texas",,1,1,12,31
+"48","001",,"Texas","Anderson",3,1,11,30
+"48","003",,"Texas","Andrews",3,1,11,30
+"48","005",,"Texas","Angelina",1,1,12,31
+"48","007",,"Texas","Aransas",1,1,12,31
+"48","009",,"Texas","Archer",3,1,11,30
+"48","011",,"Texas","Armstrong",3,1,11,30
+"48","013",,"Texas","Atascosa",3,1,11,30
+"48","015",,"Texas","Austin",1,1,12,31
+"48","017",,"Texas","Bailey",3,1,11,30
+"48","019",,"Texas","Bandera",3,1,11,30
+"48","021",,"Texas","Bastrop",3,1,11,30
+"48","023",,"Texas","Baylor",3,1,11,30
+"48","025",,"Texas","Bee",1,1,12,31
+"48","027",,"Texas","Bell",3,1,11,30
+"48","029",,"Texas","Bexar",3,1,11,30
+"48","031",,"Texas","Blanco",3,1,11,30
+"48","033",,"Texas","Borden",3,1,11,30
+"48","035",,"Texas","Bosque",3,1,11,30
+"48","037",,"Texas","Bowie",3,1,11,30
+"48","039",,"Texas","Brazoria",1,1,12,31
+"48","041",,"Texas","Brazos",3,1,11,30
+"48","043",,"Texas","Brewster",1,1,12,31
+"48","045",,"Texas","Briscoe",3,1,11,30
+"48","047",,"Texas","Brooks",1,1,12,31
+"48","049",,"Texas","Brown",3,1,11,30
+"48","051",,"Texas","Burleson",3,1,11,30
+"48","053",,"Texas","Burnet",3,1,11,30
+"48","055",,"Texas","Caldwell",3,1,11,30
+"48","057",,"Texas","Calhoun",1,1,12,31
+"48","059",,"Texas","Callahan",3,1,11,30
+"48","061",,"Texas","Cameron",1,1,12,31
+"48","063",,"Texas","Camp",3,1,11,30
+"48","065",,"Texas","Carson",3,1,11,30
+"48","067",,"Texas","Cass",3,1,11,30
+"48","069",,"Texas","Castro",3,1,11,30
+"48","071",,"Texas","Chambers",1,1,12,31
+"48","073",,"Texas","Cherokee",3,1,11,30
+"48","075",,"Texas","Childress",3,1,11,30
+"48","077",,"Texas","Clay",3,1,11,30
+"48","079",,"Texas","Cochran",3,1,11,30
+"48","081",,"Texas","Coke",3,1,11,30
+"48","083",,"Texas","Coleman",3,1,11,30
+"48","085",,"Texas","Collin",3,1,11,30
+"48","087",,"Texas","Collingsworth",3,1,11,30
+"48","089",,"Texas","Colorado",1,1,12,31
+"48","091",,"Texas","Comal",3,1,11,30
+"48","093",,"Texas","Comanche",3,1,11,30
+"48","095",,"Texas","Concho",3,1,11,30
+"48","097",,"Texas","Cooke",3,1,11,30
+"48","099",,"Texas","Coryell",3,1,11,30
+"48","101",,"Texas","Cottle",3,1,11,30
+"48","103",,"Texas","Crane",3,1,11,30
+"48","105",,"Texas","Crockett",3,1,11,30
+"48","107",,"Texas","Crosby",3,1,11,30
+"48","109",,"Texas","Culberson",1,1,12,31
+"48","111",,"Texas","Dallam",3,1,11,30
+"48","113",,"Texas","Dallas",3,1,11,30
+"48","113","0069","Texas","Dallas",1,1,12,31
+"48","115",,"Texas","Dawson",3,1,11,30
+"48","117",,"Texas","Deaf Smith",3,1,11,30
+"48","119",,"Texas","Delta",3,1,11,30
+"48","121",,"Texas","Denton",3,1,11,30
+"48","123",,"Texas","DeWitt",1,1,12,31
+"48","125",,"Texas","Dickens",3,1,11,30
+"48","127",,"Texas","Dimmit",3,1,11,30
+"48","129",,"Texas","Donley",3,1,11,30
+"48","131",,"Texas","Duval",1,1,12,31
+"48","133",,"Texas","Eastland",3,1,11,30
+"48","135",,"Texas","Ector",3,1,11,30
+"48","137",,"Texas","Edwards",3,1,11,30
+"48","139",,"Texas","Ellis",3,1,11,30
+"48","141",,"Texas","El Paso",1,1,12,31
+"48","141","0044","Texas","El Paso",1,1,12,31
+"48","143",,"Texas","Erath",3,1,11,30
+"48","145",,"Texas","Falls",3,1,11,30
+"48","147",,"Texas","Fannin",3,1,11,30
+"48","149",,"Texas","Fayette",3,1,11,30
+"48","151",,"Texas","Fisher",3,1,11,30
+"48","153",,"Texas","Floyd",3,1,11,30
+"48","155",,"Texas","Foard",3,1,11,30
+"48","157",,"Texas","Fort Bend",1,1,12,31
+"48","159",,"Texas","Franklin",3,1,11,30
+"48","161",,"Texas","Freestone",3,1,11,30
+"48","163",,"Texas","Frio",3,1,11,30
+"48","165",,"Texas","Gaines",3,1,11,30
+"48","167",,"Texas","Galveston",1,1,12,31
+"48","169",,"Texas","Garza",3,1,11,30
+"48","171",,"Texas","Gillespie",3,1,11,30
+"48","173",,"Texas","Glasscock",3,1,11,30
+"48","175",,"Texas","Goliad",1,1,12,31
+"48","177",,"Texas","Gonzales",3,1,11,30
+"48","179",,"Texas","Gray",3,1,11,30
+"48","181",,"Texas","Grayson",3,1,11,30
+"48","183",,"Texas","Gregg",3,1,11,30
+"48","185",,"Texas","Grimes",3,1,11,30
+"48","187",,"Texas","Guadalupe",3,1,11,30
+"48","189",,"Texas","Hale",3,1,11,30
+"48","191",,"Texas","Hall",3,1,11,30
+"48","193",,"Texas","Hamilton",3,1,11,30
+"48","195",,"Texas","Hansford",3,1,11,30
+"48","197",,"Texas","Hardeman",3,1,11,30
+"48","199",,"Texas","Hardin",1,1,12,31
+"48","201",,"Texas","Harris",1,1,12,31
+"48","201","1039","Texas","Harris",1,1,12,31
+"48","203",,"Texas","Harrison",3,1,11,30
+"48","205",,"Texas","Hartley",3,1,11,30
+"48","207",,"Texas","Haskell",3,1,11,30
+"48","209",,"Texas","Hays",3,1,11,30
+"48","211",,"Texas","Hemphill",3,1,11,30
+"48","213",,"Texas","Henderson",3,1,11,30
+"48","215",,"Texas","Hidalgo",1,1,12,31
+"48","217",,"Texas","Hill",3,1,11,30
+"48","219",,"Texas","Hockley",3,1,11,30
+"48","221",,"Texas","Hood",3,1,11,30
+"48","223",,"Texas","Hopkins",3,1,11,30
+"48","225",,"Texas","Houston",1,1,12,31
+"48","227",,"Texas","Howard",3,1,11,30
+"48","229",,"Texas","Hudspeth",1,1,12,31
+"48","231",,"Texas","Hunt",3,1,11,30
+"48","233",,"Texas","Hutchinson",3,1,11,30
+"48","235",,"Texas","Irion",3,1,11,30
+"48","237",,"Texas","Jack",3,1,11,30
+"48","239",,"Texas","Jackson",1,1,12,31
+"48","241",,"Texas","Jasper",1,1,12,31
+"48","243",,"Texas","Jeff Davis",1,1,12,31
+"48","245",,"Texas","Jefferson",1,1,12,31
+"48","247",,"Texas","Jim Hogg",1,1,12,31
+"48","249",,"Texas","Jim Wells",1,1,12,31
+"48","251",,"Texas","Johnson",3,1,11,30
+"48","253",,"Texas","Jones",3,1,11,30
+"48","255",,"Texas","Karnes",3,1,11,30
+"48","257",,"Texas","Kaufman",3,1,11,30
+"48","259",,"Texas","Kendall",3,1,11,30
+"48","261",,"Texas","Kenedy",1,1,12,31
+"48","263",,"Texas","Kent",3,1,11,30
+"48","265",,"Texas","Kerr",3,1,11,30
+"48","267",,"Texas","Kimble",3,1,11,30
+"48","269",,"Texas","King",3,1,11,30
+"48","271",,"Texas","Kinney",3,1,11,30
+"48","273",,"Texas","Kleberg",1,1,12,31
+"48","275",,"Texas","Knox",3,1,11,30
+"48","277",,"Texas","Lamar",3,1,11,30
+"48","279",,"Texas","Lamb",3,1,11,30
+"48","281",,"Texas","Lampasas",3,1,11,30
+"48","283",,"Texas","La Salle",3,1,11,30
+"48","285",,"Texas","Lavaca",1,1,12,31
+"48","287",,"Texas","Lee",3,1,11,30
+"48","289",,"Texas","Leon",3,1,11,30
+"48","291",,"Texas","Liberty",1,1,12,31
+"48","293",,"Texas","Limestone",3,1,11,30
+"48","295",,"Texas","Lipscomb",3,1,11,30
+"48","297",,"Texas","Live Oak",1,1,12,31
+"48","299",,"Texas","Llano",3,1,11,30
+"48","301",,"Texas","Loving",3,1,11,30
+"48","303",,"Texas","Lubbock",3,1,11,30
+"48","305",,"Texas","Lynn",3,1,11,30
+"48","307",,"Texas","McCulloch",3,1,11,30
+"48","309",,"Texas","McLennan",3,1,11,30
+"48","311",,"Texas","McMullen",1,1,12,31
+"48","313",,"Texas","Madison",3,1,11,30
+"48","315",,"Texas","Marion",3,1,11,30
+"48","317",,"Texas","Martin",3,1,11,30
+"48","319",,"Texas","Mason",3,1,11,30
+"48","321",,"Texas","Matagorda",1,1,12,31
+"48","323",,"Texas","Maverick",3,1,11,30
+"48","325",,"Texas","Medina",3,1,11,30
+"48","327",,"Texas","Menard",3,1,11,30
+"48","329",,"Texas","Midland",3,1,11,30
+"48","331",,"Texas","Milam",3,1,11,30
+"48","333",,"Texas","Mills",3,1,11,30
+"48","335",,"Texas","Mitchell",3,1,11,30
+"48","337",,"Texas","Montague",3,1,11,30
+"48","339",,"Texas","Montgomery",1,1,12,31
+"48","341",,"Texas","Moore",3,1,11,30
+"48","343",,"Texas","Morris",3,1,11,30
+"48","345",,"Texas","Motley",3,1,11,30
+"48","347",,"Texas","Nacogdoches",1,1,12,31
+"48","349",,"Texas","Navarro",3,1,11,30
+"48","351",,"Texas","Newton",1,1,12,31
+"48","353",,"Texas","Nolan",3,1,11,30
+"48","355",,"Texas","Nueces",1,1,12,31
+"48","357",,"Texas","Ochiltree",3,1,11,30
+"48","359",,"Texas","Oldham",3,1,11,30
+"48","361",,"Texas","Orange",1,1,12,31
+"48","363",,"Texas","Palo Pinto",3,1,11,30
+"48","365",,"Texas","Panola",3,1,11,30
+"48","367",,"Texas","Parker",3,1,11,30
+"48","369",,"Texas","Parmer",3,1,11,30
+"48","371",,"Texas","Pecos",3,1,11,30
+"48","373",,"Texas","Polk",1,1,12,31
+"48","375",,"Texas","Potter",3,1,11,30
+"48","377",,"Texas","Presidio",1,1,12,31
+"48","379",,"Texas","Rains",3,1,11,30
+"48","381",,"Texas","Randall",3,1,11,30
+"48","383",,"Texas","Reagan",3,1,11,30
+"48","385",,"Texas","Real",3,1,11,30
+"48","387",,"Texas","Red River",3,1,11,30
+"48","389",,"Texas","Reeves",3,1,11,30
+"48","391",,"Texas","Refugio",1,1,12,31
+"48","393",,"Texas","Roberts",3,1,11,30
+"48","395",,"Texas","Robertson",3,1,11,30
+"48","397",,"Texas","Rockwall",3,1,11,30
+"48","399",,"Texas","Runnels",3,1,11,30
+"48","401",,"Texas","Rusk",3,1,11,30
+"48","403",,"Texas","Sabine",1,1,12,31
+"48","405",,"Texas","San Augustine",1,1,12,31
+"48","407",,"Texas","San Jacinto",1,1,12,31
+"48","409",,"Texas","San Patricio",1,1,12,31
+"48","411",,"Texas","San Saba",3,1,11,30
+"48","413",,"Texas","Schleicher",3,1,11,30
+"48","415",,"Texas","Scurry",3,1,11,30
+"48","417",,"Texas","Shackelford",3,1,11,30
+"48","419",,"Texas","Shelby",1,1,12,31
+"48","421",,"Texas","Sherman",3,1,11,30
+"48","423",,"Texas","Smith",3,1,11,30
+"48","425",,"Texas","Somervell",3,1,11,30
+"48","427",,"Texas","Starr",1,1,12,31
+"48","429",,"Texas","Stephens",3,1,11,30
+"48","431",,"Texas","Sterling",3,1,11,30
+"48","433",,"Texas","Stonewall",3,1,11,30
+"48","435",,"Texas","Sutton",3,1,11,30
+"48","437",,"Texas","Swisher",3,1,11,30
+"48","439",,"Texas","Tarrant",3,1,11,30
+"48","441",,"Texas","Taylor",3,1,11,30
+"48","443",,"Texas","Terrell",3,1,11,30
+"48","445",,"Texas","Terry",3,1,11,30
+"48","447",,"Texas","Throckmorton",3,1,11,30
+"48","449",,"Texas","Titus",3,1,11,30
+"48","451",,"Texas","Tom Green",3,1,11,30
+"48","453",,"Texas","Travis",3,1,11,30
+"48","455",,"Texas","Trinity",1,1,12,31
+"48","457",,"Texas","Tyler",1,1,12,31
+"48","459",,"Texas","Upshur",3,1,11,30
+"48","461",,"Texas","Upton",3,1,11,30
+"48","463",,"Texas","Uvalde",3,1,11,30
+"48","465",,"Texas","Val Verde",3,1,11,30
+"48","467",,"Texas","Van Zandt",3,1,11,30
+"48","469",,"Texas","Victoria",1,1,12,31
+"48","471",,"Texas","Walker",1,1,12,31
+"48","473",,"Texas","Waller",1,1,12,31
+"48","475",,"Texas","Ward",3,1,11,30
+"48","477",,"Texas","Washington",3,1,11,30
+"48","479",,"Texas","Webb",1,1,12,31
+"48","481",,"Texas","Wharton",1,1,12,31
+"48","483",,"Texas","Wheeler",3,1,11,30
+"48","485",,"Texas","Wichita",3,1,11,30
+"48","487",,"Texas","Wilbarger",3,1,11,30
+"48","489",,"Texas","Willacy",1,1,12,31
+"48","491",,"Texas","Williamson",3,1,11,30
+"48","493",,"Texas","Wilson",3,1,11,30
+"48","495",,"Texas","Winkler",3,1,11,30
+"48","497",,"Texas","Wise",3,1,11,30
+"48","499",,"Texas","Wood",3,1,11,30
+"48","501",,"Texas","Yoakum",3,1,11,30
+"48","503",,"Texas","Young",3,1,11,30
+"48","505",,"Texas","Zapata",1,1,12,31
+"48","507",,"Texas","Zavala",3,1,11,30
+"49",,,"Utah",,1,1,12,31
+"49","035","3006","Utah","Salt Lake",1,1,12,31
+"50",,,"Vermont",,4,1,9,30
+"50","007","0007","Vermont","Chittenden",1,1,12,31
+"51",,,"Virginia",,3,1,10,31
+"51","087","0014","Virginia","Henrico",1,1,12,31
+"53",,,"Washington",,5,1,9,30
+"53","009","0013","Washington","Clallam",1,1,12,31
+"53","033","0080","Washington","King",1,1,12,31
+"54",,,"West Virginia",,3,1,10,31
+"54","039","0020","West Virginia","Kanawha",1,1,12,31
+"55",,,"Wisconsin",,4,1,10,15
+"55","003","0010","Wisconsin","Ashland",1,1,12,31
+"55","027","0001","Wisconsin","Dodge",1,1,12,31
+"55","041","0007","Wisconsin","Forest",1,1,12,31
+"55","059","0019","Wisconsin","Kenosha",3,1,10,31
+"55","059","0025","Wisconsin","Kenosha",3,1,10,31
+"55","079","0026","Wisconsin","Milwaukee",1,1,12,31
+"56",,,"Wyoming",,1,1,9,30
+"56","021","0100","Wyoming","Laramie",1,1,12,31
+"60",,,"American Samoa",,1,1,12,31
+"66",,,"Guam",,1,1,12,31
+"72",,,"Puerto Rico",,1,1,12,31
+"72","021","0010","Puerto Rico","Bayamon",1,1,12,31
+"78",,,"Virgin Islands",,1,1,12,31
+"80",,,"Country Of Mexico",,1,1,12,31
+"CC",,,"Canada",,1,1,12,31
